@@ -1,4 +1,4 @@
-Análisis de Ventas Minoristas y Rentabilidad
+Retail Sales Analysis, Profit Prediction and Product Segmentation
 
 ## Resumen del Proyecto
 Este proyecto analiza un conjunto de datos de ventas minoristas para comprender el rendimiento de las ventas, los patrones de rentabilidad y los factores clave que influyen en los resultados del negocio. El análisis combina el análisis exploratorio de datos con técnicas de aprendizaje automático para generar información útil para la toma de decisiones.
